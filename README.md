@@ -27,7 +27,7 @@ Análise de dados relacionados a transtornos psicologicos .........
 
 ## Suporte
 
-* Encontrou algum erro ou bug ???
+* Encontrou algum problema ???
 
 Envie um email para : 
 
