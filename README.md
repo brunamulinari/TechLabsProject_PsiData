@@ -8,7 +8,9 @@ Análise de dados relacionados a transtornos psicologicos .........
 
 ## Base de dados
 
--
+- Data SUS
+- 
+- 
 
 ## Autores
 
@@ -16,10 +18,11 @@ Análise de dados relacionados a transtornos psicologicos .........
 -
 -
 -
--
 
 ## Documentação do projeto
--
+
+-Documentação API PySUS
+https://pysus.readthedocs.io/_/downloads/en/latest/pdf/ 
 
 ## Organizadores
 
