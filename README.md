@@ -25,7 +25,7 @@ Análise de dados relacionados a transtornos psicologicos .........
 
 ## Organizadores
 
-- [Tech Labs](https://www.techlabs.org/)
+- [TechLabs](https://www.techlabs.org/)
 
 ## Suporte
 
