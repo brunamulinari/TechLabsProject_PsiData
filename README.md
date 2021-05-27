@@ -8,7 +8,7 @@ Análise de dados relacionados a transtornos psicologicos .........
 
 ## Base de dados
 
-- Data SUS [PySUS](https://pypi.org/project/PySUS)
+- Data SUS ([PySUS](https://pypi.org/project/PySUS))
 - 
 - 
 
