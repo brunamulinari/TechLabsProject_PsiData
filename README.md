@@ -34,7 +34,7 @@ Entre as perguntas mais pesquisadas está ”como lidar com a ansiedade”. Em j
 
 [Perto de 800 000 pessoas se vão por conta do suicídio cada ano, ou seja, uma pessoa a cada 40 segundos. Existem indicações de que para cada adulto que se suicida, podem ter havido mais de 20 que tentaram se suicidar.](https://www.who.int/teams/mental-health-and-substance-use/suicide-data)
 
-Agora, com um ano e meio da pandemia da COVID-19, todos já sentiram pelo menos uma vez algum sintoma relacionado à saúde mental. Ansiedade, depressão, mudanças de humor repentinas, crises de pânico. [As pessoas reagem de maneira diferente a situações estressantes. Como cada um responde à pandemia pode depender de sua formação, da sua história de vida, das suas características particulares e da comunidade em que vive.]http://bvsms.saude.gov.br/ultimas-noticias/3427-saude-mental-e-a-pandemia-de-covid-19
+Agora, com um ano e meio da pandemia da COVID-19, todos já sentiram pelo menos uma vez algum sintoma relacionado à saúde mental. Ansiedade, depressão, mudanças de humor repentinas, crises de pânico.[As pessoas reagem de maneira diferente a situações estressantes. Como cada um responde à pandemia pode depender de sua formação, da sua história de vida, das suas características particulares e da comunidade em que vive.](http://bvsms.saude.gov.br/ultimas-noticias/3427-saude-mental-e-a-pandemia-de-covid-19)
 
 Isso é mais do que inspiração para este projeto. Esses dados são um sinal e uma oportunidade de nos conscientizarmos. 
 
