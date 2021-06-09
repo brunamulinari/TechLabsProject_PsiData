@@ -9,12 +9,12 @@ Análise de dados relacionados a transtornos psicologicos .........
 ## Base de dados
 
 - Data SUS ([PySUS](https://pypi.org/project/PySUS))
-- ([Curitiba - E-Saúde](https://www.curitiba.pr.gov.br/dadosabertos/busca/?pagina=8))
+- [Curitiba - E-Saúde](https://www.curitiba.pr.gov.br/dadosabertos/busca/?pagina=8)
 - 
 
 ## Autores
 
-- ([Vitória Stavis de Araujo](https://vitoriastavis.github.io/vitoriastavis/))
+- [Vitória Stavis de Araujo](https://vitoriastavis.github.io/vitoriastavis/)
 -
 -
 -
@@ -22,7 +22,7 @@ Análise de dados relacionados a transtornos psicologicos .........
 ## Documentação do projeto
 
 - [Documentação API PySUS](https://pysus.readthedocs.io/_/downloads/en/latest/pdf/)
-- ([Documentação Plotly](https://plotly.com/python/))
+- [Documentação Plotly](https://plotly.com/python/)
 
 ## Sobre o projeto
 
