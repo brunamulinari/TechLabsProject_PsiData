@@ -10,7 +10,9 @@ Análise de dados relacionados a transtornos psicologicos .........
 
 - Data SUS ([PySUS](https://pypi.org/project/PySUS))
 - [E-Saúde - Curitiba](https://www.curitiba.pr.gov.br/dadosabertos/busca/?pagina=8)
-- 
+- [OMS 1](https://apps.who.int/gho/data/node.main.MENTALHEALTH?lang=en)
+[OMS 2](https://apps.who.int/gho/data/node.sdg.3-4-data?lang=en)
+[OMS 3](https://www.who.int/teams/mental-health-and-substance-use/suicide-data)
 
 ## Autores
 
