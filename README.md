@@ -1,10 +1,18 @@
 # TechLabsProject_PsiData
 
-Análise de dados relacionados a transtornos psicologicos .........
+Análise de dados relacionados à saúde mental em Curitiba, no Brasil e no mundo. 
+Feito com Python e Google Colaboratory de maio a julho de 2021.
 
 <p align="center">
   <img src="/tech.png" >
 </p>
+
+## Autores
+
+- [Vitória Stavis de Araujo](https://vitoriastavis.github.io/vitoriastavis/)
+-
+-
+-
 
 ## Base de dados
 
@@ -14,12 +22,6 @@ Análise de dados relacionados a transtornos psicologicos .........
 [OMS 2](https://apps.who.int/gho/data/node.sdg.3-4-data?lang=en)
 [OMS 3](https://www.who.int/teams/mental-health-and-substance-use/suicide-data)
 
-## Autores
-
-- [Vitória Stavis de Araujo](https://vitoriastavis.github.io/vitoriastavis/)
--
--
--
 
 ## Documentação do projeto
 
@@ -34,9 +36,9 @@ Entre as perguntas mais pesquisadas está ”como lidar com a ansiedade”. Em j
 
 [Estima-se que 62 mil adolescentes morreram em 2016 como resultado de autolesão. O suicídio é a 3ª principal causa de morte entre adolescentes mais velhos (15 a 19 anos).](https://www.paho.org/pt/topicos/saude-mental-dos-adolescentes)
 
-[Perto de 800 000 pessoas se vão por conta do suicídio cada ano, ou seja, uma pessoa a cada 40 segundos. Existem indicações de que para cada adulto que se suicida, podem ter havido mais de 20 que tentaram se suicidar.](https://www.who.int/teams/mental-health-and-substance-use/suicide-data)
+[Perto de 800 000 pessoas se vão por conta do suicídio cada ano, ou seja, *uma pessoa a cada 40 segundos*. Existem indicações de que para cada adulto que se suicida, podem ter havido mais de 20 que tentaram se suicidar.](https://www.who.int/teams/mental-health-and-substance-use/suicide-data)
 
-Agora, com um ano e meio da pandemia da COVID-19, todos já sentiram pelo menos uma vez algum sintoma relacionado à saúde mental. Ansiedade, depressão, mudanças de humor repentinas, crises de pânico.[As pessoas reagem de maneira diferente a situações estressantes. Como cada um responde à pandemia pode depender de sua formação, da sua história de vida, das suas características particulares e da comunidade em que vive.](http://bvsms.saude.gov.br/ultimas-noticias/3427-saude-mental-e-a-pandemia-de-covid-19)
+Em 2021, com um ano e meio da pandemia da COVID-19, todos já sentiram pelo menos uma vez algum sintoma relacionado à saúde mental. Ansiedade, depressão, mudanças de humor repentinas, crises de pânico.[As pessoas reagem de maneira diferente a situações estressantes. Como cada um responde à pandemia pode depender de sua formação, da sua história de vida, das suas características particulares e da comunidade em que vive.](http://bvsms.saude.gov.br/ultimas-noticias/3427-saude-mental-e-a-pandemia-de-covid-19)
 
 Isso é mais do que inspiração para este projeto. Esses dados são um sinal e uma oportunidade de nos conscientizarmos. 
 
