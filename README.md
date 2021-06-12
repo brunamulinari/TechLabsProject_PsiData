@@ -88,6 +88,6 @@ O modelo foi feito com 80% dos dados para treino e 20% para teste.
 * Encontrou algum problema? Tem alguma sugestão?
 
 Envie um email para: 
-
+vitoriastavisa@gmail.com
 
 
