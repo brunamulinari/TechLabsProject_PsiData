@@ -71,6 +71,13 @@ A tabela geral possui 39813 amostras e 44 colunas. Os profissionais requisitados
 Ao final, foi feita uma classificação com as classes 'fez consulta de psicologia' e 'não fez consulta de psicologia'. Foi usado o modelo de Random Forest tanto para seleção de características quanto para a classificação em si. As variáveis selecionadas foram: -.
 O modelo foi feito com 80% dos dados para treino e 20% para teste. 
 
+## Brasil
+
+## Mundo
+
+## Conclusões
+
+
 
 ## Organizadores
 
