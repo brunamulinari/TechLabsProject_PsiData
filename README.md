@@ -30,9 +30,9 @@ Feito com Python e Google Colaboratory de maio a julho de 2021.
 
 ## Sobre o projeto
 
-[Houve um pico histórico nas pesquisas sobre transtornos mentais: buscas sobre o tema tiveram uma alta de 98% ante a média dos dez últimos anos.](https://saude.estadao.com.br/noticias/geral,com-pandemia-buscas-relacionadas-a-transtornos-mentais-no-google-batem-recorde,70003445996)
+[Houve um pico histórico nas pesquisas sobre transtornos mentais: buscas tiveram uma alta de 98% ante a média dos dez últimos anos.](https://saude.estadao.com.br/noticias/geral,com-pandemia-buscas-relacionadas-a-transtornos-mentais-no-google-batem-recorde,70003445996)
 
-Entre as perguntas mais pesquisadas está ”como lidar com a ansiedade”. Em junho, a pergunta ”o que é felicidade” teve o maior volume de buscas dos últimos oito anos.
+Entre as perguntas mais pesquisadas está ”como lidar com a ansiedade”. 
 
 [Estima-se que 62 mil adolescentes morreram em 2016 como resultado de autolesão. O suicídio é a 3ª principal causa de morte entre adolescentes mais velhos (15 a 19 anos).](https://www.paho.org/pt/topicos/saude-mental-dos-adolescentes)
 
@@ -46,11 +46,11 @@ O PsiData faz a análise da saúde mental em diferentes níveis: local (Curitiba
 
 Veja a análise gráfica no [Chart Studio](https://chart-studio.plotly.com/dashboard/psidata:6)
 
-# Sobre Curitiba
+## Sobre Curitiba
 
 [De acordo com o Ministério da Saúde,](https://www.bemparana.com.br/noticia/pr-bate-recorde-de-mortes-relacionadas-a-transtornos-mentais-diz-ministerio-da-saude) o estado do Paraná bate recorde de mortes relacionadas a transtornos mentais em 2020.
 
-Foram analisados os dados do [sistema informatizado E-Saúde](http://esaude.curitiba.pr.gov.br/PortalSaude/). Foi criado em 2020 para **automatização de agendamento de consultas e realização de teleconsultas**, organização e remanejamento da agenda de profissionais e cadastro de medicamentos. O sistema registra atendimentos prestados pela **Secretaria Municipal de Saúde de Curitiba** em sua rede de atenção. Esta rede é composta por Unidades Básicas de Saúde, Unidades de Pronto Atendimento, Centros de Especialidades Médicas e Odontológicas, entre outros. 
+Foram analisados os dados do [sistema informatizado E-Saúde](http://esaude.curitiba.pr.gov.br/PortalSaude/). Foi criado em 2020 para **automatização de agendamento de consultas e realização de teleconsultas**, organização e remanejamento da agenda de profissionais e cadastro de medicamentos. O sistema registra atendimentos prestados pela **Secretaria Municipal de Saúde** em sua rede composta por Unidades Básicas de Saúde, Unidades de Pronto Atendimento, Centros de Especialidades Médicas e Odontológicas, entre outros. 
 
 [Nos dados disponibilizados pela Prefeitura Municipal de Curitiba](https://www.curitiba.pr.gov.br/dadosabertos/busca/?pagina=8), podemos encontrar as seguintes informações sobre pessoas que requisitaram atendimento entre dezembro de 2020 e maio de 2021:
 [Clique aqui para ver a tabela de informações.](https://imgur.com/a/DJyoQ9Y)
@@ -68,9 +68,8 @@ Foi usada a biblioteca pandas e numpy para análise, matplotlib e seaborn para o
 
 A tabela geral possui 39813 amostras e 44 colunas. Os profissionais requisitados são: psicólogo clínico, farmacêutico, fisioterapeuta, fonoaudiólogo, nutricionista e educador físico. Dos requerimentos,  48,2% são por psicólogo. A partir da data de nascimento, foi gerada a idade dos pacientes. Os valores nulos foram substituídos pelo valor mais frequente.
 
-Foram feitos gráficos básicos com matplotlib e seaborn, e gráficos avançados com plotly. 
-
-Ao final, foi feita uma classificação com as classes 'fez consulta de psicologia' e 'não fez consulta de psicologia'. Foi usado o modelo de RandomForest tanto para seleção de características quanto para o modelo em si. com 80% dos dados para treino e 20% para teste. 
+Ao final, foi feita uma classificação com as classes 'fez consulta de psicologia' e 'não fez consulta de psicologia'. Foi usado o modelo de Random Forest tanto para seleção de características quanto para a classificação em si. As variáveis selecionadas foram: -.
+O modelo foi feito com 80% dos dados para treino e 20% para teste. 
 
 
 ## Organizadores
