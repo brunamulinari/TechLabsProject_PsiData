@@ -74,8 +74,7 @@ O modelo foi feito com 80% dos dados para treino e 20% para teste.
 ## Brasil
 
 ## Mundo
-### Segundo estimativas da [Organização Mundial de Saúde](https://www.who.int/teams/mental-health-and-substance-use/suicide-data) (OMS), ocorre um suicídio no mundo a cada 40 segundos.
-.
+Segundo estimativas da [Organização Mundial de Saúde](https://www.who.int/teams/mental-health-and-substance-use/suicide-data) (OMS), ocorre um suicídio no mundo a cada 40 segundos.
 ### **Dados apontam que o suicídio em 2016 foi responsável por 1,4% das mortes no mundo, tornando-se a 18ª maior causa de mortes ([OMS](https://www.who.int/teams/mental-health-and-substance-use/suicide-data), 2021).**
 
 Diante deste lamentável fato, é necessário apresentar e compreender os dados sobre este tipo de morte em diferentes países, para assim, fornecer ferramentas para análise e elaboração de ações voltadas a promover a saúde mental da população.
@@ -85,7 +84,8 @@ A partir dos dados disponíveis, é realizado um estudo com ênfase nos países 
           a) Primeiramente é realizada um observação da evolução do percentual de suicídios de 2000, 2010 até 2019 e;
           b) Numa segunda perspectiva, se observam os dados a partir dos três anos recentes disponíveis, 2017, 2018 e 2019. 
 2.  A [segunda base de dados](https://apps.who.int/gho/data/node.main.MHFAC?lang=en) refere-se a dados sobre infraestruturas e serviços voltados a promover a saúde mental nos países para o ano de 2016.
-.
+
+
 A amostra de dados levantados, busca realizar comparações entre a América Latina, o Brasil e países ricos selecionados.
 ## Conclusões
 
