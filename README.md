@@ -5,6 +5,7 @@ Feito com Python e Google Colaboratory de maio a julho de 2021.
 
 <p align="center">
   <img src="/tech.png" >
+   <img src="/logo psidata.png" >
 </p>
 
 ## Autores
