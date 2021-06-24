@@ -10,8 +10,7 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
 
 
-Análise de dados relacionados à saúde mental em Curitiba, no Brasil e no mundo. 
-Feito com Python e Google Colaboratory de maio a julho de 2021.
+Análise de dados relacionados à casos de suícidio e saúde mental em Curitiba, no Brasil e no mundo. 
 
 <p align="center">
    <img src="/logo psidata.png" >
