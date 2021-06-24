@@ -72,6 +72,7 @@ Ao final, foi feita uma classificação com as classes 'fez consulta de psicolog
 O modelo foi feito com 80% dos dados para treino e 20% para teste. 
 
 ## Brasil
+<img src="/SuícidiosBrasil(2017-2019).png" >
 
 ## Mundo
 Segundo estimativas da [Organização Mundial de Saúde](https://www.who.int/teams/mental-health-and-substance-use/suicide-data) (OMS), ocorre um suicídio no mundo a cada 40 segundos.
