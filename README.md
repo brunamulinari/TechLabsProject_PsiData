@@ -13,7 +13,7 @@ Feito com Python e Google Colaboratory de maio a julho de 2021.
 ## Autores
 
 - [Vitória Stavis de Araujo](https://vitoriastavis.github.io/vitoriastavis/)
--
+- [Guilherme Cardoso de Vargas](https://github.com/vargacypher)
 -
 -
 
