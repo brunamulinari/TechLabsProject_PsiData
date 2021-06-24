@@ -19,7 +19,7 @@ Análise de dados relacionados à casos de suícidio e saúde mental em Curitiba
 ## Autores
 
 - [Vitória Stavis de Araujo](https://vitoriastavis.github.io/vitoriastavis/) - gosto de jogos, neurociência, tecnologia e música.
-- [Guilherme Cardoso de Vargas](https://github.com/vargacypher)
+- [Guilherme Cardoso de Vargas](https://github.com/vargacypher) -  Apaixonado por Ciência e por abelhas
 -
 -
 
