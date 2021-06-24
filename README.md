@@ -10,10 +10,6 @@ Feito com Python e Google Colaboratory de maio a julho de 2021.
    <img src="/logo psidata.png" >
 </p>
 
-
-## Dashboard
-https://chart-studio.plotly.com/dashboard/psidata:6/view#/
-
 ## Autores
 
 - [Vitória Stavis de Araujo](https://vitoriastavis.github.io/vitoriastavis/)
