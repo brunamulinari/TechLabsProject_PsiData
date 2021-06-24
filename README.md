@@ -1,7 +1,7 @@
 # TechLabsProject_PsiData
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
-
+![Love](http://ForTheBadge.com/images/badges/built-with-science.svg)
+![Science](http://ForTheBadge.com/images/badges/built-with-science.svg)
 
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
