@@ -4,7 +4,6 @@ Análise de dados relacionados à saúde mental em Curitiba, no Brasil e no mund
 Feito com Python e Google Colaboratory de maio a julho de 2021.
 
 <p align="center">
-  <img src="/tech.png" >
    <img src="/logo psidata.png" >
 </p>
 
@@ -93,7 +92,7 @@ A amostra de dados levantados, busca realizar comparações entre a América Lat
 
 
 ## Organizadores
-
+<img src="/tech.png" >
 - [TechLabs](https://www.techlabs.org/)
 
 ## Suporte
