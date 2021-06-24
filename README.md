@@ -1,7 +1,9 @@
 # TechLabsProject_PsiData
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ![Python](https://img.shields.io/badge/Python-v3.8-blue.svg?logo=python&longCache=true&logoColor=white&style=flat-square&colorA=4c566a&colorB=5e81ac)
 ![Plotly](https://img.shields.io/badge/Plotly-v4.9.0-blue.svg?logo=python&longCache=true&logoColor=white&style=flat-square&colorA=4c566a&colorB=5e81ac)
 ![Pandas](https://img.shields.io/badge/Pandas-v1.1.1-blue.svg?logo=pandas&longCache=true&logoColor=white&style=flat-square&colorA=4c566a&colorB=B48EAD)
+
 
 Análise de dados relacionados à saúde mental em Curitiba, no Brasil e no mundo. 
 Feito com Python e Google Colaboratory de maio a julho de 2021.
