@@ -2,8 +2,9 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
-![Plotly](https://img.shields.io/badge/Plotly-v4.9.0-blue.svg?logo=python&longCache=true&logoColor=white&style=flat-square&colorA=4c566a&colorB=5e81ac)
-![Pandas](https://img.shields.io/badge/Pandas-v1.1.1-blue.svg?logo=pandas&longCache=true&logoColor=white&style=flat-square&colorA=4c566a&colorB=B48EAD)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
 
 Análise de dados relacionados à saúde mental em Curitiba, no Brasil e no mundo. 
