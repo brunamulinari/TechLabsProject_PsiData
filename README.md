@@ -13,7 +13,7 @@
 Análise de dados relacionados à casos de suícidio e saúde mental em Curitiba, no Brasil e no mundo. 
 
 <p align="center">
-   <img src="/logo psidata.png" >
+   <img src="Imagens/logo psidata.png" >
 </p>
 
 ## Autores
@@ -102,7 +102,7 @@ A amostra de dados levantados, busca realizar comparações entre a América Lat
 
 
 ## Organizadores
-<img src="/tech.png" >
+<img src="Imagens/logo techlabs.png" >
    
 [TechLabs](https://www.techlabs.org/)   
 
