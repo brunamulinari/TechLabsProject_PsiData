@@ -110,6 +110,5 @@ A amostra de dados levantados, busca realizar comparações entre a América Lat
 * Encontrou algum problema? Tem alguma sugestão?
 
 Envie um email para: 
-vitoriastavisa@gmail.com
-
+psidata.tech@gmail.com
 
