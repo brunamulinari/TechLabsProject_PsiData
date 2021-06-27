@@ -103,7 +103,7 @@ A amostra de dados levantados, busca realizar comparações entre a América Lat
 
 ## Organizadores
 <img src="/tech.png" >
-- [TechLabs](https://www.techlabs.org/)
+[TechLabs](https://www.techlabs.org/)
 
 ## Suporte
 
