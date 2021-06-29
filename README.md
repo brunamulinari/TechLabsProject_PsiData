@@ -82,7 +82,24 @@ O modelo foi feito com 80% dos dados para treino e 20% para teste.
 
 ## Brasil
 <img src="/dados_Brasil/SuícidiosBrasil(2017-2019).png" >
-
+   
+As análises realizadas no Brasil foram focadas principalmente nos casos de Suícidios entre os anos de 2017 e 2019 (dado mais atual até o momento) , os dados foram obtidos através da Api (PySUS) a qual concentra vários seguimentos de notificação do DATASUS, como o Sistema de Informação de Nascidos Vivos (SINASC) e Sistema de informações de Mortalidade (SIM). 
+   
+Foram notificados 27.859 casos durante os 3 anos, esses casos foram avaliados estatisticamente de acordo com:
+   *Raça/Cor
+   *Sexo
+   *Escolaridade
+   *Estado
+   *Estado Civil
+   *Local da Ocorrência
+   *Data do Obito
+   *Idade
+   
+ Por fim um modelo de regressão utilizando séries temporais foi criado para realizar uma previsão dos 2 primeiros meses de 2020 (dado ainda não disponibilizado pelo DATASUS até o momento).
+   
+<img src="/dados_Brasil/regressao.png" >
+   
+   
 ## Mundo
 Segundo estimativas da [Organização Mundial de Saúde](https://www.who.int/teams/mental-health-and-substance-use/suicide-data) (OMS), ocorre um suicídio no mundo a cada 40 segundos.
 ### **Dados apontam que o suicídio em 2016 foi responsável por 1,4% das mortes no mundo, tornando-se a 18ª maior causa de mortes ([OMS](https://www.who.int/teams/mental-health-and-substance-use/suicide-data), 2021).**
