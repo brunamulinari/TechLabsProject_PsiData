@@ -81,11 +81,11 @@ Ao final, foi feita uma classificação com as classes 'fez consulta de psicolog
 O modelo foi feito com 80% dos dados para treino e 20% para teste. 
 
 ## Brasil
-<img src="/dados_Brasil/SuícidiosBrasil(2017-2019).png" >
-   
 As análises realizadas no Brasil foram focadas principalmente nos casos de Suícidios entre os anos de 2017 e 2019 (dado mais atual até o momento) , os dados foram obtidos através da Api (PySUS) a qual concentra vários seguimentos de notificação do DATASUS, como o Sistema de Informação de Nascidos Vivos (SINASC) e Sistema de informações de Mortalidade (SIM). 
    
-Foram notificados 27.859 casos durante os 3 anos, esses casos foram avaliados estatisticamente de acordo com:
+<img src="/dados_Brasil/SuícidiosBrasil(2017-2019).png" >
+    
+O levantamento trouxe 27.859 casos notificados durante os 3 anos analisados, esses casos foram avaliados estatisticamente de acordo com as seguintes colunas (váriaveis):
    *Raça/Cor
    *Sexo
    *Escolaridade
@@ -95,9 +95,11 @@ Foram notificados 27.859 casos durante os 3 anos, esses casos foram avaliados es
    *Data do Obito
    *Idade
    
- Por fim um modelo de regressão utilizando séries temporais foi criado para realizar uma previsão dos 2 primeiros meses de 2020 (dado ainda não disponibilizado pelo DATASUS até o momento).
+ Por fim os dados foram manipulados novamente para a construção de um modelo de regressão utilizando séries temporais, para realizar uma previsão dos 2 primeiros meses de 2020 (dado ainda não disponibilizado pelo DATASUS até o momento).
    
 <img src="/dados_Brasil/regressao.png" >
+   Average error: 21.687789107707058
+   RMSE: 26.25421656826177
    
    
 ## Mundo
