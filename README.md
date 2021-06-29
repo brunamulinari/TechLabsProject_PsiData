@@ -99,6 +99,8 @@ O levantamento trouxe 27.859 casos notificados durante os 3 anos analisados, ess
    
 <img src="/dados_Brasil/regressao.png" >
    Average error: 21.687789107707058
+   
+   
    RMSE: 26.25421656826177
    
    
