@@ -88,14 +88,14 @@ As análises realizadas no Brasil foram focadas principalmente nos casos de Suí
 O levantamento trouxe 27.859 casos notificados durante os 3 anos analisados, esses casos foram avaliados estatisticamente de acordo com as seguintes colunas (váriaveis):
    
    
-   *Raça/Cor
-   *Sexo
-   *Escolaridade
-   *Estado
-   *Estado Civil
-   *Local da Ocorrência
-   *Data do Obito
-   *Idade
+*Raça/Cor
+*Sexo
+*Escolaridade
+*Estado
+*Estado Civil
+*Local da Ocorrência
+*Data do Obito
+*Idade
    
  Por fim os dados foram manipulados novamente para a construção de um modelo de regressão utilizando séries temporais, para realizar uma previsão dos 2 primeiros meses de 2020 (dado ainda não disponibilizado pelo DATASUS até o momento).
    
