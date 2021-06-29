@@ -96,7 +96,7 @@ O levantamento trouxe 27.859 casos notificados durante os 3 anos analisados, ess
 * Estado
 * Estado Civil
  
-Por fim os dados foram manipulados novamente para a construção de um modelo de regressão utilizando séries temporais, para realizar uma previsão dos 2 primeiros meses de 2020 (dado ainda não disponibilizado pelo DATASUS até o momento).
+Por fim os dados foram manipulados novamente para a construção de um modelo de regressão utilizando séries temporais, para realizar uma previsão dos óbitos que ocorreram nos dois 2 primeiros meses de 2020 (dado ainda não disponibilizado pelo DATASUS até o momento).
    
 <img src="/dados_Brasil/regressao.png" >
    Average error: 21.687789107707058
