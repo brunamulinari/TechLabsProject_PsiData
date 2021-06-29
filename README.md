@@ -86,6 +86,8 @@ As análises realizadas no Brasil foram focadas principalmente nos casos de Suí
 <img src="/dados_Brasil/SuícidiosBrasil(2017-2019).png" >
     
 O levantamento trouxe 27.859 casos notificados durante os 3 anos analisados, esses casos foram avaliados estatisticamente de acordo com as seguintes colunas (váriaveis):
+   
+   
    *Raça/Cor
    *Sexo
    *Escolaridade
