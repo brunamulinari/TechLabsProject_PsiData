@@ -21,15 +21,15 @@ Análise de dados relacionados à casos de suícidio e saúde mental em Curitiba
 - [Vitória Stavis de Araujo](https://vitoriastavis.github.io/vitoriastavis/) - gosto de jogos, neurociência, tecnologia e música.
 - [Guilherme Cardoso de Vargas](https://github.com/vargacypher) -  Apaixonado por ciência e por abelhas
 - [Herik Tomasiok](https://github.com/Herik-T) - Admirador de montanhas, vinho e heavy metal
- -
+-
 
 ## Base de dados
 
 - Data SUS ([PySUS](https://pypi.org/project/PySUS))
 - [E-Saúde - Curitiba](https://www.curitiba.pr.gov.br/dadosabertos/busca/?pagina=8)
 - [OMS 1](https://apps.who.int/gho/data/node.main.MENTALHEALTH?lang=en)
-[OMS 2](https://apps.who.int/gho/data/node.sdg.3-4-data?lang=en)
-[OMS 3](https://www.who.int/teams/mental-health-and-substance-use/suicide-data)
+- [OMS 2](https://apps.who.int/gho/data/node.sdg.3-4-data?lang=en)
+- [OMS 3](https://www.who.int/teams/mental-health-and-substance-use/suicide-data)
 
 
 ## Documentação do projeto
@@ -84,10 +84,9 @@ O modelo foi feito com 80% dos dados para treino e 20% para teste.
 As análises realizadas no Brasil foram focadas principalmente nos casos de Suícidios entre os anos de 2017 e 2019 (dado mais atual até o momento) , os dados foram obtidos através da Api (PySUS) a qual concentra vários seguimentos de notificação do DATASUS, como o Sistema de Informação de Nascidos Vivos (SINASC) e Sistema de informações de Mortalidade (SIM). 
    
 <img src="/dados_Brasil/SuícidiosBrasil(2017-2019).png" >
+   
     
-O levantamento trouxe 27.859 casos notificados durante os 3 anos analisados, esses casos foram avaliados estatisticamente de acordo com as seguintes colunas (váriaveis):
-   
-   
+O levantamento trouxe 27.859 casos notificados durante os 3 anos analisados, esses casos foram avaliados estatisticamente de acordo com as seguintes colunas (váriaveis): 
 *Raça/Cor
 *Sexo
 *Escolaridade
