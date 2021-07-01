@@ -99,10 +99,11 @@ O levantamento trouxe 27.859 casos notificados durante os 3 anos analisados, ess
 Por fim os dados foram manipulados novamente para a construção de um modelo de regressão utilizando séries temporais, realizando uma previsão dos óbitos que ocorreram nos dois 2 primeiros meses de 2020 (dado ainda não disponibilizado pelo DATASUS até o momento).
    
 <img src="/dados_Brasil/regressao.png" >
-   Average error: 21.687789107707058
+   Average error: 43.30442050629227
    
    
-   RMSE: 26.25421656826177
+   
+   RMSE: 52.584865809050136
    
    
 ## Mundo
