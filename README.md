@@ -78,7 +78,7 @@ O script é Psidata_Curitiba. Foram usadas as bibliotecas pandas e numpy para an
 A tabela geral possui 39813 amostras e 44 colunas. Os profissionais requisitados são: psicólogo clínico, farmacêutico, fisioterapeuta, fonoaudiólogo, nutricionista e educador físico. Dos requerimentos, 48,2% são por psicólogo. A partir da data de nascimento, foi gerada a idade dos pacientes. Os valores nulos foram substituídos pelo valor mais frequente.
 
 Ao final, foi feita uma classificação com as classes 'fez consulta de psicologia' e 'não fez consulta de psicologia'. Foi usado o modelo de RandomForest tanto para seleção de características quanto para a classificação em si. As variáveis selecionadas (dentro de todas as 42) pelo RandomForestClassifier foram: 'Cômodos', 'Em Caso de Doença', 'Bairro', 'Idade', 'Mês da consulta'.
-O modelo foi feito com 80% dos dados para treino e 20% para teste. Foi usado um GridSearch para encontrar os melhores valores para parâmetros. A acurácia final foi de 
+O modelo foi feito com 80% dos dados para treino e 20% para teste. Foi usado um GridSearch para encontrar os melhores valores para parâmetros. A acurácia final foi de 82%. 
 
 ## Brasil
 As análises realizadas no Brasil foram focadas principalmente nos casos de Suícidios entre os anos de 2017 e 2019 (dado mais atual até o momento) , os dados foram obtidos através da Api (PySUS) a qual concentra vários seguimentos de notificação do DATASUS, como o Sistema de Informação de Nascidos Vivos (SINASC) e Sistema de informações de Mortalidade (SIM). 
