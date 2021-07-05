@@ -34,7 +34,7 @@ Análise de dados relacionados à casos de suícidio e saúde mental em Curitiba
 
 ## Documentação do projeto
 
-- [Documentação API PySUS](https://pysus.readthedocs.io/_/downloads/en/latest/pdf/)
+- [Documentação PySUS](https://pysus.readthedocs.io/_/downloads/en/latest/pdf/)
 - [Documentação Plotly](https://plotly.com/python/)
 
 ## Sobre o projeto
