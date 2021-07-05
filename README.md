@@ -81,7 +81,7 @@ Ao final, foi feita uma classificação com as classes 'fez consulta de psicolog
 O modelo foi feito com 80% dos dados para treino e 20% para teste. Foi usado um GridSearch para encontrar os melhores valores para parâmetros. A acurácia final foi de 82%. 
 
 ## Brasil
-As análises realizadas no Brasil foram focadas principalmente nos casos de Suícidios entre os anos de 2017 e 2019 (dado mais atual até o momento) , os dados foram obtidos através da Api (PySUS) a qual concentra vários seguimentos de notificação do DATASUS, como o Sistema de Informação de Nascidos Vivos (SINASC) e Sistema de informações de Mortalidade (SIM). 
+As análises realizadas no Brasil foram focadas principalmente nos casos de Suícidios entre os anos de 2017 e 2019 (dado mais atual até o momento) , os dados foram obtidos através da biblioteca (PySUS) a qual concentra vários seguimentos de notificação do DATASUS, como o Sistema de Informação de Nascidos Vivos (SINASC) e Sistema de informações de Mortalidade (SIM). 
    
 <img src="/dados_Brasil/SuícidiosBrasil(2017-2019).png" >
    
